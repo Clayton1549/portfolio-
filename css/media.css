@@ -1,0 +1,929 @@
+/* responive medias css  */
+@media(min-width:50px) and (max-width:99px)  {
+    #navRes{
+     top: 0;
+     display:none;
+     background-color: rgba(80, 71, 61, 0.3);
+     color: aquamarine;
+     width: 90%;
+     border: 1px solid greenyellow;
+     position: absolute;
+    }
+    
+    #navRes ul li {
+     color:rgb(95, 20, 216);
+     margin-left: -36px;
+   }
+    #navRes ul li a{
+      color: #fff;
+     }
+    
+     #navRes ul li a:hover{
+      border: 1px solid lawngreen;
+      padding-left: 14.1%;
+      padding-right: 14%;
+      padding-top: 6px;
+      padding-bottom:6px;
+      background-color: aqua;
+   }
+   
+   #navSite{
+     display: none;
+   }
+    #navSite{
+     display: none;
+   }
+    #imgSanduich{
+     display: block;
+     opacity:1;
+    
+     }
+     #navResponsive { 
+       width: 60px !important;
+     }
+    .init{
+     overflow: scroll;
+   }
+    #j1{
+     width: 80%;
+     height: 900px;
+     margin: 0;
+    }
+    #textTopicos{
+     margin-top: 540px;
+    }
+  
+    #conteudoT1{
+     width: 14%;
+     margin-left: 0;
+     font-size: 4.3px;
+    }  
+    #conteudoA{
+     width: 14%;
+     margin-left: 0;
+     margin-top: auto;
+     font-size: 6px;
+   }
+    #dev{
+    font-size: 9px;
+   }
+    #j1 #dev h1{
+    margin-left: -16px;
+   }
+    #j1 #dev p {
+    margin-left: -14px;
+    color: rgb(21, 235, 21); 
+   
+   }
+   #divTextCon{
+     margin-top: 0px;
+     margin-left: -64px;
+     font-size: 9px;
+   
+    }
+    #footerA{
+     margin-top:960px;
+     height:480px;
+     padding: 14px 14px 90px 1px;
+     font-size: 9px;
+   }
+    #footerDiv{
+     margin-left: -34px;
+     padding-top: 30px;
+     }
+    #footerA #footerDiv a{
+       font-size: 9.3px;
+     }
+    #footerA #footerDiv p{
+       font-size: 9.4px;
+     }
+    #crsLink {
+      margin: 0;
+      
+     }
+    .divSkkils {
+     margin-left: 0;
+     font-size: 9px;
+    
+   }
+   #divLinguagensImg {
+    padding-left: 29px;
+    margin-top: 640px;
+  
+     
+   }
+   
+   #divLinguagensImg #divImg h1 {
+     font-size: 6px;
+   }
+   #textTopicos .stAnDiv h1 {
+     margin-left: -9px;
+     font-size: 9px;
+     
+   }
+   #textTopicos .stAnDiv h3 {
+     margin-left: 0px;
+     font-size: 9px;
+   }
+   #textTopicos .stAnDiv p {
+     margin-left: 0px;
+     font-size: 9px;
+   }
+   #textTopicos {
+     margin-top: -9px;
+   }
+    .textN{
+     font-size: 9px;
+    }
+    .mrDesing{
+    display: none;
+   }
+    #devProj{
+    margin-left: 4px;
+    margin-bottom: auto;
+    font-size: 9.3px;
+    }
+    #divSk .ulSkl li{
+     clear: both;
+      }
+   
+     #imgResLogo{
+       display: block;
+       width: 40px;
+       height: 40px;
+     }
+   }
+   
+   @media(min-width:100px) and (max-width:160px)  {
+    #navRes{
+     top: 0;
+     display:none;
+     background-color: rgba(226, 240, 235,0.3);
+     color: aquamarine;
+     width: 90%;
+     border: 1px solid greenyellow;
+     position: absolute;
+    }
+    #navRes ul li {
+     color:rgb(95, 20, 216);
+     margin-left: -15px;
+     }
+  #navRes ul li a{
+    color: #fff;
+  }
+     #navRes ul li a:hover{
+       border: 1px solid lawngreen;
+       padding-left: 14.1%;
+       padding-right: 14%;
+       padding-top: 6px;
+       padding-bottom:6px;
+       background-color: aqua;
+       
+     }
+   #navSite{
+       display: none;
+     }
+    #navSite{
+     display: none;
+   }
+    #imgSanduich{
+     display: block;
+     opacity:1;
+   
+    }
+    #navResponsive { 
+     width: 60px !important;
+   }
+   .init{
+     overflow: scroll;
+     height: 900px;
+    
+     }
+    #j1{
+     width: 80%;
+     height: 684px;
+     margin: 0;
+   }
+   #textTopicos{
+     margin-top: 685px;
+    }
+    #textTopicos .stAnDiv h1 {
+     margin-left: 0;
+   }
+   #textTopicos .stAnDiv h3 {
+     margin-left: 0;
+   }
+   #textTopicos .stAnDiv p {
+     margin-left: 0;
+   }
+    #conteudoT1{
+     width: 14%;
+     margin-left: 0;
+     font-size: 9.99999px;
+   
+   }  
+    #conteudoA{
+     width: 14%;
+     margin-left: 0;
+     font-size: 9.99999px;
+   }
+   #dev{
+     font-size: 9.99999px;
+     }
+   #j1 #dev h1{
+     margin-left: 0;
+   }
+   #j1 #dev p {
+    margin-left: 0;
+    color: rgb(21, 235, 21); 
+   
+    }
+   #footerA{
+     margin-top:100px;
+     height:460px;
+     padding: 0 1px 230px 1px;
+   
+   }
+   #footerDiv{
+     margin-left: 3px;
+   }
+   #crsLink {
+     margin: 0;
+     
+    }
+   .divSkkils {
+     margin-left: 0;
+     font-size: 9.999999px;
+   
+   }
+   .stAnDiv {
+     font-size: 9.99999px;
+   }
+   #divLinguagensImg {
+     margin-top: 680px;
+     padding-left: 14px;
+     font-size: 6px;
+   }
+   #divLinguagensImg #divImg h1 {
+     padding: 0;
+     margin-left: -9px;
+  }
+   
+   #divTextCon {
+     margin-top: 0px;
+     margin-left: -64px;
+     font-size: 9px;
+   }
+   
+   #divTextCon #devTextB h1 {
+    margin-left: 39px;
+   }
+   #footerA {
+    margin-top: 900px;
+   }
+   
+   #textTopicos {
+     margin-top: -9px;
+   }
+   .textN {
+     font-size: 9.999999px;
+   }
+   .mrDesing{
+     margin-top: 80px;
+     
+   }
+   #devProj{
+    margin-left: 6px;
+     margin-bottom: auto;
+     font-size: 14.99999px;
+    }
+    #divSk .ulSkl li{
+     clear: both;
+      }
+
+   }
+   @media(min-width:161px) and (max-width:203px)  {
+    #navRes{
+      top: 0;
+      display:none;
+      background-color: rgba(226, 240, 235,0.3);
+      color: aquamarine;
+      width: 80%;
+      border: 1px solid greenyellow;
+      position: absolute;
+    }
+    #navRes ul li {
+      margin-left: -15px;
+     }
+    #navRes ul li a{
+     color: #fff;
+     
+     }
+     #navRes ul li a:hover{
+       border: 1px solid lawngreen;
+       padding-left: 14.1%;
+       padding-right: 14%;
+       padding-top: 6px;
+       padding-bottom:6px;
+       background-color: aqua;
+       
+     }
+     #navSite{
+       display: none;
+     }
+    #navSite{
+      display: none;
+     }
+    #imgSanduich{
+      display: block;
+      opacity:1;
+    }
+      #navResponsive { 
+       width: 60px !important;
+     }
+   
+    #j1{
+      width: 80%;
+      height: 700px;
+      margin: 0;
+   }
+   #textTopicos{
+     margin-top: 1090px;
+    }
+    #conteudoT1{
+      width: 14%;
+      margin-left: 0;
+     
+    }  
+    #conteudoA{
+      width: 14%;
+      margin-left: 0;
+    
+     }
+    #j1 #dev h1{
+     margin-left: 0;
+    }
+    #linkProgProgres {
+     margin: 4px 0 1px !important;
+     font-size: 9px;
+   
+   }
+    #j1 #dev p {
+    margin-left: 0;
+    
+    }
+    #textTopicos .stAnDiv h1 {
+     margin-left: 0;
+    }
+    #textTopicos .stAnDiv h3 {
+     margin-left: 0;
+    }
+    #textTopicos .stAnDiv p {
+     margin-left: 0;
+    }
+    #divTextCon {
+      margin-left: -60px;
+    }
+    #footerA{
+     margin-top:500px;
+     height:640px;
+     padding: 1px;;
+   }
+   #footerDiv {
+    padding: 30px 21px 80px 0px;
+    margin-left: -6px;
+  
+   }
+   
+   #crsLink {
+     margin: 0;
+     
+    }
+    .divSkkils {
+     margin-left: 0;
+   }
+   #divLinguagensImg {
+     margin-top: 1060px;
+     padding-left: 9px;
+     font-size: 9px;
+   }
+   #divLinguagensImg #divImg h1{
+     margin-left: 3px;
+   }
+   #textTopicos {
+     margin-top: -9px;
+   }
+   .divImgL {
+     padding-left: 30px;
+   }
+   
+    .mrDesing{
+     margin-top: 80px;
+   }
+    #devProj{
+     margin-left: 40px;
+     margin-bottom: auto;;
+     }
+     #divSk .ulSkl li{
+       clear: both;
+        }
+     
+     #imgResLogo{
+       display: block;
+       margin-left: 21%;
+      
+     }
+   }
+   
+   @media(min-width:204px) and (max-width:400px)  {
+    #navRes{
+      top: 0;
+      display:none;
+      background-color: rgba(226, 240, 235,0.3);
+      color: aquamarine;
+      width: 80%;
+      border: 1px solid greenyellow;
+      position: absolute;
+   }
+    #navRes ul li {
+      list-style: none;
+      color:rgb(95, 20, 216);
+      margin-left: -15px;
+       }
+    #navRes ul li a{
+     color: #fff;
+      
+   }
+   #navRes ul li a:hover{
+     border: 1px solid lawngreen;
+     padding-left: 14.1%;
+     padding-right: 14%;
+     padding-top: 6px;
+     padding-bottom:6px;
+     background-color: aqua;
+     
+   }
+   #navSite{
+     display: none;
+   }
+    #navSite{
+      display: none;
+     }
+    #imgSanduich{
+     display: block;
+     opacity:1;
+     
+     }
+     #navResponsive { 
+       width: 60px !important;
+     }
+     #j1{
+     width: 86%;
+     height: 360px;
+     margin: 0;
+   }
+   #textTopicos{
+     margin-top: 960px;
+    }
+    #conteudoT1{
+     width: 14%;
+     margin-left: 30px;
+     
+   }  
+   
+    #conteudoA{
+     width: 14%;
+     margin-left: 36px;
+    
+   }
+    #dev{
+     font-size: 14px;
+   }
+    #footerA{
+     margin-top:500px;
+     height: 640px;
+     padding: 1px;;
+   }
+   #footerDiv {
+    margin-left: 21px;
+   }
+   /*footer*/
+   #linkProgProgres {
+     margin: 14px 0 1px !important;
+   }
+  .divSkkils {
+     margin-left: 0;
+     margin-top: 0;
+    
+     }
+#divTextCon {
+  margin-left: -40px;
+  margin-top: 36px;
+ 
+}
+  
+  #textTopicos .stAnDiv h1 {
+      margin-left:0;
+   }
+   #textTopicos .stAnDiv h3 {
+    margin-left:0;
+
+   }
+   #textTopicos .stAnDiv p {
+    margin-left:0;
+ }
+  #divLinguagensImg {
+    margin-top: 980px;
+    margin-left: -21px;
+  }
+  .divImgL{
+       padding-left: 30px;
+     }
+     #textTopicos {
+       margin-top: -9px;
+     }
+    .textN{
+     margin-left: -16px;
+    
+   }
+    .mrDesing{
+     margin-top: 80px;
+   }
+    #devProj{
+     margin-top:0;
+     margin-left: 40px;
+    
+     }
+    #divSk .ulSkl li{
+       clear: both;
+        }
+    
+     #imgResLogo{
+       display: block;
+       margin-left: 21%;
+      
+     }
+     
+   }
+   
+   @media(min-width:401px) and (max-width:600px) {
+    #navRes{
+     top: 0;
+     display:none;
+     background-color: rgba(226, 240, 235,0.3);
+     color: aquamarine;
+     width: 60%;
+     border: 1px solid greenyellow;
+     position: absolute;
+     }
+    
+    #navRes ul li a{
+     color: #fff;
+     
+     }
+    #navSite{
+      display: none;
+     }
+     #navRes ul li a:hover{
+       border: 1px solid lawngreen;
+       padding-left: 14.1%;
+       padding-right: 14%;
+       padding-top: 6px;
+       padding-bottom:6px;
+       background-color: aqua;
+     }
+     #navResponsive { 
+       width: 60px !important;
+     }
+     #navSite{
+       display: none;
+     }
+    #imgSanduich{
+       display: block;
+       opacity:1;
+    }
+    .init{
+       height: 900px;
+      
+      }
+    #j1{
+       width: 80%;
+       height: 350px;
+       padding-top: 14px;
+       margin-left: 21px;
+       
+     }
+   #conteudoA {
+    margin-left: 60px;
+  }
+   #conteudoT1{
+       width: 60%;
+     }  
+     #conteudoT1 {
+      margin-left: 40px;
+     }
+    #conteudoA{
+       width: 60%;
+    }
+    #textTopicos{
+      margin-top: 940px;
+     }
+     #textTopicos .stAnDiv h1 {
+      margin-left: 0;
+     }
+     #textTopicos .stAnDiv h3 {
+      margin-left: 21px;
+     }
+     #textTopicos .stAnDiv p {
+      margin-left: 21px;
+     }
+    #dev{
+       font-size: 14px;
+     }
+     #footerA{
+     margin-top:500px;
+     height: 640px;
+     padding: 1px;;
+   }
+   #footerDiv {
+    margin-left: 21px;
+   }
+    .divSkkils {
+       margin-left: 4px;
+     }
+     #divLinguagensImg {
+       margin-top: 921px;
+       margin-left: -40px;
+      }
+    #textTopicos {
+      margin-top: -9px;
+     }
+   
+    .textN{
+      margin-top: 0px;
+     
+    }
+    .mrDesing{
+     margin-top: 80px;
+    }
+    #devProj{
+    margin-top: 0px;
+    margin-left:40px;
+    margin-bottom: auto;
+    }
+    #divSk .ulSkl li{
+     clear: both;
+      }
+   
+    #imgResLogo{
+     display: block;
+     margin-left: 21%;
+    
+     }
+     
+   }
+   @media(min-width:601px) and (max-width:800px) {
+     #navRes{
+      top: 0;
+      display:none;
+      background-color: rgba(226, 240, 235,0.3);
+      color: aquamarine;
+      width: 46%;
+      border: 1px solid greenyellow;
+      position: absolute;
+     }
+     
+     #navRes ul li a{
+       text-decoration: none;
+       color: #fff;
+     
+     }
+    
+     #navRes ul li a:hover{
+       border: 1px solid lawngreen;
+       padding-left: 14.1%;
+       padding-right: 14%;
+       padding-top: 6px;
+       padding-bottom:6px;
+       background-color: aqua;
+       
+     }
+     #navSite{
+       display: none;
+     }
+     #imgSanduich{
+       display: block;
+       opacity:1;
+    }
+     #navResponsive { 
+       width: 60px !important;
+     }
+     .init{
+       height: 740px;;
+     }
+     #j1{
+       width: 91%;
+       margin-left: 26px;
+      
+     }
+     #textTopicos{
+       margin-top: -9px;
+      }
+      #divLinguagensImg {
+       margin-top: 900px;
+      
+     }
+     #conteudoT1{
+       width: 50%;
+     }  
+     #conteudoA{
+       width: 50%;
+      }
+     #dev{
+       font-size: 14px;
+      }
+     .init #j1 #dev h1 {
+       letter-spacing: 0px;
+     } 
+     
+    .mrDesing{
+       margin-top: 60px;
+    }
+     #devProj{
+        margin-top: 0px;
+      }
+     
+      #divSk .ulSkl li{
+         clear: both;
+          }
+    
+    #divSk .ulSkl_ li{
+         clear: both;
+          }
+     
+   
+      #divSk .ulSkl_A li{
+       clear: both;
+        }
+    
+   
+   #imgResLogo{
+     display: block;
+     margin-left: 21%;
+     
+     }
+     #crsLink {
+       float: left;
+       margin: 14px 1px 0px 46px;
+       
+     }
+     #footerA{
+       padding-bottom: 36px;
+        
+     }
+    #footerA  #footerDiv a {
+       text-indent: -40px;
+     }
+   }
+   
+   @media(min-width:801px) and (max-width:1000px) {
+     #navRes{
+       top: 0;
+       display:none;
+       background-color: rgba(226, 240, 235,0.3);
+       width: 36%;
+       color: aquamarine;
+       border: 1px solid greenyellow;
+       position: absolute;
+   }
+   #navRes ul li a{
+       color: #fff;
+      
+     }
+     #navRes ul li a:hover{
+       border: 1px solid lawngreen;
+       padding-left: 14.1%;
+       padding-right: 14%;
+       padding-top: 6px;
+       padding-bottom:6px;
+       background-color: aqua;
+       
+     }
+     #navSite{
+       display: none;
+     }
+     #imgSanduich{
+       display: block;
+       opacity:1;
+      
+     }
+     #navResponsive { 
+          width:60px !important;
+        }
+     
+     #j1{
+        width: 91%;
+        margin-left: 30px;
+       
+      }
+      #textTopicos{
+       margin-top: 760px;
+      }
+     #conteudoT1{
+       width: 40%;
+     }  
+     #conteudoA{
+       width: 40%;
+     }
+     .divSkkils {
+       margin-left: 4px;
+       margin-top: 60px;
+      
+      }
+     #textTopicos {
+        margin-top: -9px;
+      
+     }
+     .textN{
+       margin-left: -30px;
+      }
+     .mrDesing{
+      margin-top: 130px;
+     }
+     
+     #footerA{
+       padding-bottom: 36px;
+     }
+     
+     #devProj{
+     margin-top:0 ;
+     margin-left: 3px;
+    
+    }
+    #imgResLogo{
+     display: block;
+     margin-left: 21%;
+     
+   }
+  
+}
+   
+   @media(min-width:1001px) and (max-width:1600px)  {
+     .init{
+       height: 700px;
+     }
+      #j1{
+       width: 84%;
+       }
+      #navResponsive { 
+         display: none !important;
+          }
+      .divSkkils {
+         margin : 100px;
+       }
+       #divLinguagensImg {
+         padding-left: 180px;
+       }
+       .mrDesing{
+        margin-top: 100px;
+     }
+     #navIn ul li a:hover{
+       border: 1px solid  transparent;
+     }
+      #navRes ul li a {
+       display: none;
+     }
+     #navIn ul li a {
+       padding: 0;
+     }
+      .ulSkl{
+       margin-left: -3.4% !important;
+     }
+     .ulSkl_{
+       margin-left: -1.4% !important;
+     }
+      .ulSkl_A{
+       margin-left: -1.4% !important;
+     }
+      .ulSkl_B{
+       margin-left: -1.4% !important;
+     }
+   
+     
+   }
+   
+@media(min-width:1601px) and (max-width:2600px)  {
+  #navResponsive { 
+         display: none !important;
+        }
+  #navRes ul li a {
+ display: none;
+  }
+#j1{
+    width: 84%;
+  }
+}
+   
+   
+   
+   
