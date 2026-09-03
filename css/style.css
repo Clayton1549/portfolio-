@@ -3,6 +3,8 @@ html {
   overflow-x: hidden;
   scroll-behavior: smooth;
   filter: brightness(114%);
+  /*height: none;*/
+  
 }
 body{
   margin: 0;
@@ -13,7 +15,8 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
   background-position:center;
- }
+    
+}
 .container{
   margin-left:9%;
   margin-right: 14%;
